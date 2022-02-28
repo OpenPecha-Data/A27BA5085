@@ -1,0 +1,25 @@
+segment_sources:
+  P89E88B47:
+    type: origin_type
+    relation: translation
+    language: en
+  PF7245581:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  42c081c250774d00bc9e2b0aed5abab7:
+    P89E88B47: fdda7dbd69db45a7843d8f723085d0c1
+    PF7245581: 6d3bdca71f2247febff6586d18bbe679
+  042d7d10b8d94fbbb96a8274804d709c:
+    P89E88B47: 3a873207b3fb4f628c24e325a53c2143
+    PF7245581: 3a19506fa09a4ceca440327051194eaa
+  85d3ac3ed2df40dca0c20d9bedb23d12:
+    P89E88B47: cf48846d5570479092813f80b741786f
+    PF7245581: cf35cdb0f67c4c6d9207295a0f7fb11b
+  3af8852e354a4dc0888aa011a38b4b93:
+    P89E88B47: 0fbecba5e79b499eae17021ef4381bd6
+    PF7245581: 671909f914324c709edf61a6352823c5
+  5290719d4ba54786a137f7ac17a94ecb:
+    P89E88B47: ea57b4b6e3dc4a9da95d4fecb586d3fb
+    PF7245581: e612aad549a849ec847c121dd6a2671a
